@@ -1,6 +1,6 @@
-package io.cloudtype.Demo.test.dto.res;
+package io.cloudtype.SejongClass.test.dto.res;
 
-import io.cloudtype.Demo.test.User;
+import io.cloudtype.SejongClass.test.User;
 import lombok.Getter;
 
 @Getter

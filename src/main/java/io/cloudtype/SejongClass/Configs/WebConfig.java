@@ -1,4 +1,4 @@
-package io.cloudtype.Demo.Configs;
+package io.cloudtype.SejongClass.Configs;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

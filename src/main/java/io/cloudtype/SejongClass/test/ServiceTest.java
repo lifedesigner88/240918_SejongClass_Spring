@@ -1,8 +1,8 @@
-package io.cloudtype.Demo.test;
+package io.cloudtype.SejongClass.test;
 
-import io.cloudtype.Demo.test.dto.req.CreateUserReqDto;
-import io.cloudtype.Demo.test.dto.res.CreateUserResDto;
-import io.cloudtype.Demo.test.dto.res.UserResDto;
+import io.cloudtype.SejongClass.test.dto.req.CreateUserReqDto;
+import io.cloudtype.SejongClass.test.dto.res.CreateUserResDto;
+import io.cloudtype.SejongClass.test.dto.res.UserResDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

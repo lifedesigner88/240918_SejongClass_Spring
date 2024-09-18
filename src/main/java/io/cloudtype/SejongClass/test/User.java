@@ -1,4 +1,4 @@
-package io.cloudtype.Demo.test;
+package io.cloudtype.SejongClass.test;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

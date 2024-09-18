@@ -1,4 +1,4 @@
-package io.cloudtype.Demo;
+package io.cloudtype.SejongClass;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

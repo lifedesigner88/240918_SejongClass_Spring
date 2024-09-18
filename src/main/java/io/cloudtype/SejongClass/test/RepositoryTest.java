@@ -1,4 +1,4 @@
-package io.cloudtype.Demo.test;
+package io.cloudtype.SejongClass.test;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;

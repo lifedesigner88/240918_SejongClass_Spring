@@ -1,4 +1,4 @@
-package io.cloudtype.Demo.test.dto.req;
+package io.cloudtype.SejongClass.test.dto.req;
 
 import lombok.Getter;
 
